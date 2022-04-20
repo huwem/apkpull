@@ -1,11 +1,11 @@
 # apkpull
 用于获取移动设备某文件夹下的全部.apk文件
 
-环境
-python3
+环境    
+python3     
 adb连接
 
-usage:
+usage:    
 使用方法：
 
 1.python3 apkpull.py 
